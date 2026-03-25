@@ -1,2 +1,3 @@
 base
 feature-merge 1
+feature-merge 2
